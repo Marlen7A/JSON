@@ -1,8 +1,8 @@
-{}[D
-[A[C[
-""[Dfull name": Marlen Abliakimov Eskenderovich"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"[[[[C[D[3~[C[CMarlen Abliakimov Eskenderovich",
-""[Dage": "34",
-"pets":{
-	"dog":1
-	},
-	"desired_salary":"1000$"
+{	
+	"full name":"Marlen Abliakimov Eskenderovich",
+	"age":"34",
+	"pets":{
+		"dog":1,
+		},
+	"desiger_salary":"1000$"
+}
